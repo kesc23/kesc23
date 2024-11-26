@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=14094485)
+# Hey! I'm Kevin!
 
 <h3> :man: &nbsp;About Me </h3>
 
@@ -50,3 +50,8 @@
 [![Linkedin: Kevin Campos](https://img.shields.io/badge/-Kevin%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinsouzacampos/)](https://www.linkedin.com/in/kevinsouzacampos/)
 [![Gmail Badge](https://img.shields.io/badge/-kesc23@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kesc23@hotmail.com)](mailto:kesc23@hotmail.com)
 [![GitHub Kevin Campos]( https://img.shields.io/github/followers/kesc23?label=follow&style=social)](https://github.com/kesc23)
+
+
+
+
+![](https://hit.yhype.me/github/profile?user_id=14094485)
