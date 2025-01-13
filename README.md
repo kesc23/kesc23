@@ -12,6 +12,7 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,7 +49,7 @@
 <h3> :earth_americas: &nbsp;Where to Find Me: </h3> 
 
 [![Linkedin: Kevin Campos](https://img.shields.io/badge/-Kevin%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinsouzacampos/)](https://www.linkedin.com/in/kevinsouzacampos/)
-[![Gmail Badge](https://img.shields.io/badge/-kesc23@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kesc23@hotmail.com)](mailto:kesc23@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kevin.souza.campos@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.souza.campos@hotmail.com)](mailto:kevin.souza.campos@hotmail.com)
 [![GitHub Kevin Campos]( https://img.shields.io/github/followers/kesc23?label=follow&style=social)](https://github.com/kesc23)
 
 
