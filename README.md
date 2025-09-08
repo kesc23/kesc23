@@ -20,6 +20,7 @@
 
 **Frameworks / Libraries**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -33,6 +34,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FFf?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////1ydD77O/jY3rZADfkZ33qj57bGUbcJEzrlKPxtr/bDkH319zfQWDaAD3cIUraADr88fPmc4fcIEryv8fsnartoq7dKVD31NrwsrzfP1/eNljgSWb65en++frZADDvq7bXAB3nfY/YACXzL6M9AAAA1klEQVR4AY2SBRaEQAhA2REdu7vj/nfcN2Entp8G+C6/3y0iCqJKrpmGVNcpGhfIpJbOxaLmAdmO6+m6Z1ns7js2rBKEGHGbOOb2EYbBzBIWTKe+sUTWKaYS0ogpz3kSFdl3JmHm6ZGT86wKds/LSI+qFfoshl37fm0zY38PCQDPimII0Jxg2+lcuvYKooAYfIMXbq8giPpQgRMMeH2uW+Ug4akJfQ+wwF37AhCkFfCq8cawwIuR4QIvhi1hdrkmHYMRjpcLpgE0U21fraZCWMLF96W+lj8AMBRjf/AZbQAAAABJRU5ErkJggg==)
+![Milvus](https://img.shields.io/badge/Milvus-FFffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcExNt+9Mt+9Mtu9Nt+9Nt+9Nt+9Nt/BNt+9Nt+9NuPBNt+9Nt+9Nt+9NuPBNt+9jt4AFAAAAEHRSTlMAITsIZa7a5cCB/3JTn/UTSwGSXgAAAKpJREFUeAFjoBgwKgkj8UzCyjMmwnlMWatWrVq+AcY9tarWx7dqrQFU6aq3AgwMsq8ugHnM+9ZtYNq5iWHeIjDX+tVqZrdVyzabrmCQB0rOW7WB59WqVU+Y3in4fmDgfPWE4eu6VatWCGQ5HL/AsGudA4MY0KJlClET1NaicSGKV8EUA41ah2QUyKIlzNtWLQdbhOkMBm64IyHAC+oFTA8ivI8rcEDGkxPCAKysWY2Us/oSAAAAAElFTkSuQmCC)
 
 
 **Other Technologies**
